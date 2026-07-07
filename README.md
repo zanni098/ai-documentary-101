@@ -152,13 +152,13 @@ A separate music timeline (6 cues, crossfaded, matched to the film's exact runti
 
 ---
 
-## Asset bundles (GitHub Releases)
+## Asset bundles ([v1.0 release](https://github.com/zanni098/ai-documentary-101/releases/tag/v1.0))
 
 | Bundle | Contents | Size |
 |---|---|---|
-| `core-assets.zip` | Character images + all 12 narrator Veo clips + all 9 Vox exhibit clips (2K) + voice + SFX + music + the 33 pre-rendered final beats | ~570MB |
-| `archive-exploration.zip` | Early sample renders, the rejected Remotion-only attempt, superseded (wrong-character) narrator test clips | ~350MB |
-| `archive-vox-source.zip` | Original 720p Vox stills + raw Higgsfield renders before 2K upscale (the source for `docs/VOX_EXHIBIT_PROMPTS.md`) | ~300MB |
+| [`core-assets.zip`](https://github.com/zanni098/ai-documentary-101/releases/download/v1.0/core-assets.zip) | Character images + all 12 narrator Veo clips + all 9 Vox exhibit clips (2K) + voice + SFX + music + the 33 pre-rendered final beats | ~590MB |
+| [`archive-exploration.zip`](https://github.com/zanni098/ai-documentary-101/releases/download/v1.0/archive-exploration.zip) | Early sample renders, the rejected Remotion-only attempt, superseded (wrong-character) narrator test clips | ~335MB |
+| [`archive-vox-source.zip`](https://github.com/zanni098/ai-documentary-101/releases/download/v1.0/archive-vox-source.zip) | Original 720p Vox stills + raw Higgsfield renders before 2K upscale (the source for `docs/VOX_EXHIBIT_PROMPTS.md`) | ~280MB |
 
 Grab `core-assets.zip` if you just want to reproduce the pipeline above. The archive bundles are kept for transparency/history only — not needed to rebuild the video.
 
