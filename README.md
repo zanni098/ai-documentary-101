@@ -2,7 +2,7 @@
 
 **A ~6-minute documentary — script, narrator, exhibits, voice, SFX, and edit — made entirely with AI tools, and directed almost entirely by Claude Code.** This repo is the complete, reproducible source: every prompt, every script, every asset, in the exact order they were used to build the final video.
 
-Final video: **[link to be added]**
+Final video: **[youtube.com/watch?v=uPMaQBqYsCw](https://www.youtube.com/watch?v=uPMaQBqYsCw)**
 
 ---
 
